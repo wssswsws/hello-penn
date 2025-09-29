@@ -1,1 +1,1 @@
-print("Hello from Penn!")
+print("Hello from Penn CIS!")
